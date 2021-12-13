@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tugas6prak</string>
+    <string-array name="city_list">
+    <item>Malang</item>
+    <item>Jakarta</item>
+    <item>Jogja</item>
+    <item>Palembang</item>
+    <item>Samarinda</item>
+    </string-array>
+</resources>
